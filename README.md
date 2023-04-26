@@ -1,4 +1,4 @@
-# PowerHuman HRIS
+# Power Human HRIS
 
 Application HR System with Laravel for Backend and Nuxt JS for frontend.
 
